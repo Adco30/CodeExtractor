@@ -30,7 +30,7 @@ CodeExtractor is a lightweight PyQt5 desktop application that lets you navigate 
    pip install -r requirements.txt
 3. Clone this repository:  
    ```bash
-   git clone https://github.com/Adco/CodeExtractor.git
+   git clone https://github.com/Adco30/CodeExtractor.git
    cd CodeExtractor
 
 ### Watch the YouTube demo:
